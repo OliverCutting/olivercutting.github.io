@@ -1,5 +1,5 @@
 # Oliver Patrick Cutting
-*DevOps Engineer based in Sunderland, United Kingdom* 🇬🇧
+*DevOps Engineer based in Sunderland, United Kingdom 🇬🇧* 
 
 ## Engineering Experience
 
