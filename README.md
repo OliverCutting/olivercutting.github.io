@@ -11,7 +11,9 @@ The Department for Work and Pensions (DWP) is responsible for welfare, pensions 
 
 ## Qualifications
 
-**A Levels**
+**Level 4 Qualification in DevOps Engineering** *(TBC ~ Nov 2023)*
+
+**A Levels** *(June 2013)*
 
 - Computing
 - Chemistry
