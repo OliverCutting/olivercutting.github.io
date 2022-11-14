@@ -8,3 +8,11 @@ The Department for Work and Pensions (DWP) is responsible for welfare, pensions 
 
 - Began with a 10 week software development bootcamp, followed by an 8 week devops engineering bootcamp, provided by [Makers Academy](https://makers.tech/)
 - Started my placement with DWP where I have been working on internal projects such as creating centralised user management solutions accross AWS accounts, and migrating vital services to AWS EKS.
+
+##Qualifications
+
+**A Levels**
+
+- Computing
+- Chemistry
+- Physics
