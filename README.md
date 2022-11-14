@@ -1,6 +1,8 @@
 # Oliver Patrick Cutting
 *DevOps Engineer based in Sunderland, United Kingdom 🇬🇧* 
 
+[LinkedIn](https://www.linkedin.com/in/oliver-patrick-cutting/)/[Github](https://github.com/OliverCutting)/[Gitlab](https://www.gitlab.om/oliver.cutting)
+
 ## Engineering Experience
 
 **DevOps Engineer Apprentice** @[DWP](https://www.gov.uk/government/organisations/department-for-work-pensions)*(Jan 2022 - Present)*
